@@ -1,6 +1,6 @@
 # Roxy Privacy Policy
 
-**Effective date:** 1 October 2026
+**Effective date:** 19 October 2026
 
 Roxy is a Discord bot that tracks activity to provide levels, profiles, leaderboards and achievements. This policy explains what Roxy stores, why, and how you can have it deleted.
 
@@ -9,10 +9,13 @@ Roxy is a Discord bot that tracks activity to provide levels, profiles, leaderbo
 | Data | Why |
 |---|---|
 | Your Discord user ID, username and display name | To identify your profile and show your name on leaderboards |
-| The **number** of messages you send | To award XP and rank the message leaderboard |
+| The **number** of messages you send, in total and per server | To award XP, run server levels and rank the message leaderboard |
+| Your XP and level in each server | To show your server profile and give rank roles that server's admins set up |
 | Games shown in your Discord status, with start time, end time and duration | To show gaming statistics and award XP |
-| Spotify songs shown in your Discord status (title, artist, album), with start time, end time and duration | To show listening statistics and award XP |
-| Your level, XP and achievements | To run the levelling system |
+| Apps shown in your Discord status that aren't games (for example Visual Studio Code, YouTube or Netflix), with start time, end time and duration | To show app statistics and award XP |
+| Songs shown in your Discord status by Spotify, YouTube Music or another music app (title, artist, album and which app), with start time, end time and duration | To show listening statistics and award XP |
+| Time spent in voice channels (server, channel name, start time, end time and duration) | To show voice statistics and award XP |
+| Your level, XP and achievements, including achievements a server's admins give you in that server | To run the levelling system and show achievements on your profile |
 | The date Roxy first and last saw you | To show your timeline and remove inactive records |
 
 ## What Roxy does not store

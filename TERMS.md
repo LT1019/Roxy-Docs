@@ -1,6 +1,6 @@
 # Roxy Terms of Service
 
-**Effective date:** 1 October 2026
+**Effective date:** 18 October 2026
 
 By adding Roxy to a server or using her commands, you agree to these terms.
 
@@ -14,7 +14,7 @@ Roxy's developer may reset statistics gained by cheating and may block users or 
 
 ## Tracking and privacy
 
-Roxy tracks message counts, games and Spotify activity to provide statistics. The [Privacy Policy](PRIVACY.md) explains what is stored and how to ask for your data to be deleted.
+Roxy tracks message counts, games, apps, voice calls and music (Spotify, YouTube Music and other music apps) to provide statistics. The [Privacy Policy](PRIVACY.md) explains what is stored and how to ask for your data to be deleted.
 
 **Server owners:** by adding Roxy, you agree to let your members know that Roxy tracks activity in the server. Roxy's welcome message tells new members about this.
 
